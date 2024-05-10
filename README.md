@@ -5,3 +5,7 @@ I demostrate skills in procces, cleaning, visualization and analyze.
 With tools like Pandas, Matplotlib, Numpy, Gob and Own Codes.
 
 Finally I get some Conclutiosn about the weather in Chile.
+
+See first:
+* PrecipitationsAndTemperature
+* Weather_Chile
