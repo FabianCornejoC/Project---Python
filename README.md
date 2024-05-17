@@ -2,7 +2,7 @@ In this project I analyze a set of data about weather, rain and temperature. Thi
 
 I demostrate skills in procces, cleaning(1) - visualization and analyze(2). 
 
-Finally I get some Conclutiosn about the weather in Chile.
+Finally I get some Conclutions about the weather in Chile.
 
 See first:
 * PrecipitationsAndTemperature (1)
