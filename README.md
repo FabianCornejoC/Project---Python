@@ -2,10 +2,16 @@ In this project I analyze a set of data about weather, rain and temperature. Thi
 
 I demostrate skills in procces, cleaning, visualization and analyze. 
 
-With tools like Pandas, Matplotlib, Numpy, Gob and Own Codes.
-
 Finally I get some Conclutiosn about the weather in Chile.
 
 See first:
 * PrecipitationsAndTemperature
 * Weather_Chile
+
+Libraries:
+
+1. Pandas
+2. Matplotlib
+3. Numpy
+4. Gob
+5. **Own Codes** 
